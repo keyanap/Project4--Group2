@@ -1,0 +1,2 @@
+Resources/hashtag_donaldtrump_cleaned.csv filter=lfs diff=lfs merge=lfs -text
+Resources/hashtag_joebiden_cleaned.csv filter=lfs diff=lfs merge=lfs -text
